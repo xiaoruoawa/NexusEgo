@@ -1,5 +1,4 @@
 # NexusEgo - 我的世界网易版辅助建筑工具
-# [NexusEgo作者非常傻逼]
 
 ![版本](https://img.shields.io/badge/版本-1.2.0-blue)
 ![支持平台](https://img.shields.io/badge/平台-网易我的世界-important)
